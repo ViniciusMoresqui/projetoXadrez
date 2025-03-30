@@ -1,0 +1,40 @@
+body{
+    background-color: rgb(190, 208, 243);
+    display: flex;
+    align-items: center;
+    justify-content: center;  
+    height: 90vh;
+}
+
+.corpo{
+    border: 8px solid;
+    border-radius: 8px;
+    text-align: center;
+}
+
+.botoes{
+    display: grid;
+    grid-template-columns: repeat(8, 1fr);
+}
+
+.branco{
+    width: 50px;
+    height: 50px;
+    background-color: white;
+}
+
+.preto{
+    background-color: coral;
+    width: 50px;
+    height: 50px;
+}
+
+.branco img{
+    width: 100%;
+    height: 100%
+}
+
+.preto img{
+    width: 100%;
+    height: 100%
+}
