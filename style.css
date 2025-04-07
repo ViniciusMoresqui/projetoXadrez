@@ -7,6 +7,7 @@ body{
 }
 
 .corpo{
+    display: grid;
     border: 8px solid;
     border-radius: 8px;
     text-align: center;
