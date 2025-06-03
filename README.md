@@ -1,7 +1,3 @@
-Claro! Aqui está um exemplo de `README.md` bem estruturado e simples para o seu projeto de tabuleiro de xadrez. Você pode copiar e colar no seu repositório GitHub:
-
----
-
 # ♟️ Tabuleiro de Xadrez - Projeto Web
 
 Este projeto é uma representação visual de um tabuleiro de xadrez interativo feito com **HTML**, **CSS** e **JavaScript**, desenvolvido para fins educacionais em disciplina da faculdade.
